@@ -8,10 +8,6 @@ A GUI-based medical image security application implementing hybrid encryption us
 
 **Published:** RACCAI 2026 — 3rd International Conference, CGC University
 
-## Screenshot
-
-> GUI showing original, encrypted, and decrypted medical images side by side.
-
 ## Features
 
 - **AES-256 Encryption** — military-grade cryptographic protection
